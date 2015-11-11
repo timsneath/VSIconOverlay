@@ -6,4 +6,4 @@ The package in this extension is triggered when Visual Studio is loaded in desig
 Right now, this only works on Visual Studio 2015; if it seems useful, I'll backport it to support older releases. Or someone else can submit me a pull request or fork the code :)
 
 ## Installation
-Simply run the VSIconOverlay.vsix file.
+Simply run the [VSIconOverlay.vsix](https://github.com/timsneath/VSIconOverlay/blob/master/VSIconOverlay.vsix?raw=true) file.
